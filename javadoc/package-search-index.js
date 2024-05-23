@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"game"},{"l":"game.console"},{"l":"game.util"},{"l":"puzzle"},{"l":"puzzle.solver"},{"l":"puzzle.util"},{"l":"util"},{"l":"util.javafx"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"game"},{"l":"game.console"},{"l":"game.util"},{"l":"puzzle"},{"l":"puzzle.console"},{"l":"puzzle.direction"},{"l":"puzzle.solver"},{"l":"puzzle.util"},{"l":"util"},{"l":"util.javafx"}];updateSearchResults();

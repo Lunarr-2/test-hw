@@ -2,6 +2,8 @@ game
 game.console
 game.util
 puzzle
+puzzle.console
+puzzle.direction
 puzzle.solver
 puzzle.util
 util
